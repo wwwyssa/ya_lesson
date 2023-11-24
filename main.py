@@ -14,6 +14,9 @@ def main():
 def second_f():
     print(':-)')
 
+def third_f():
+    print('(-:')
+
 
 if __name__ == '__main__':
     main()
