@@ -1,3 +1,4 @@
+# Copyright Grisha Maryin
 def my_superfunction():
     print('What an awesome print!')
 
@@ -14,6 +15,7 @@ def main():
 
 def second_f():
     print(':-)')
+
 
 def third_f():
     print('(-:')
